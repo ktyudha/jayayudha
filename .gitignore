@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# JKS
+# android/app/jayayudha.jks
+# android/app/key.properties
